@@ -15,10 +15,3 @@ Su objetivo es servir como proyecto básico para practicar el uso de Git y GitHu
 - .gitignore: exclusiones de archivos no necesarios en el repositorio. 
 - README.md: documentación básica del Proyecto.
 
-## Diferencias entre Git Bash y el IDE 
-La vista de cambios del IDE resalta líneas añadidas y eliminadas, lo que facilita la comparación. 
-Para commits pequeños y revisión rápida, el IDE es más ágil y visual. 
-Para comprender el flujo real de trabajo y resolver incidencias, Git Bash aporta más control. 
-Además, la terminal obliga a pensar mejor cada operación y su efecto sobre el repositorio. 
-Por eso considero que Git Bash es mejor para aprender los fundamentos y el IDE para trabajar con más comodidad. 
-Usar ambos métodos me ha ayudado a entender mejor la relación entre comandos y acciones visuales.

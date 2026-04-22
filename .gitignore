@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilados Java
+out/
+build/
+target/
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+#Modificacion Opcion B

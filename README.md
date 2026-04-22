@@ -17,3 +17,5 @@ Su objetivo es servir como proyecto básico para practicar el uso de Git y GitHu
 
 Mejora del README
 
+Cambio en repositorio clonado
+

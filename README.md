@@ -15,5 +15,5 @@ Su objetivo es servir como proyecto básico para practicar el uso de Git y GitHu
 - .gitignore: exclusiones de archivos no necesarios en el repositorio. 
 - README.md: documentación básica del Proyecto.
 
-Linea adicional para 2ª commit
+Mejora del README
 
